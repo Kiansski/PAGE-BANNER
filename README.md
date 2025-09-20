@@ -1,4 +1,4 @@
-![meme](./meme.jpeg)
+![meme](./meme.png)
 
 # C++ Dev 
 
