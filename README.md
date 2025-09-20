@@ -1,4 +1,4 @@
-![Header](./meme.jpeg)
+![meme](./meme.jpeg)
 
 # C++ Dev 
 
